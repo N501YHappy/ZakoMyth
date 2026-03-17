@@ -214,4 +214,9 @@ udp_socket.sendto(bytes.fromhex(cmd_package("/k echo 点赞 投币 Star！")),ta
 2. 小心挨打
 
 # 谢谢观看！如果对这个文档有建议的话在github发issues或者在评论区发（如果有的话）
+
+文档是做梦时候写的，所以如果有不懂或者我没说请的地方一定要给我说QAQ,我尽量在文章中修改
+
 这只是对极域 udp重放漏洞的利用教程，我是不会提供任何成品工具的，绝对不会，题解已经在这里了，其他功能照猫画虎就行了（不是因为我懒）
+
+### 如果觉得这个[仓库](https://github.com/N501YHappy/ZakoMyth)有用的话，请帮忙点一个star谢谢你喵
